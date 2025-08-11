@@ -10,6 +10,7 @@ Muchos agricultores y pequeños propietarios tienen dificultades para llevar un 
 ## Integrantes del Equipo
 
 - [Johán Nicolás Bautista Raba](https://github.com/NicolasBautista4037)
+- [Juan Sebastian Morales]()
 
 ## Lista Inicial de Módulos del Sistema
 
