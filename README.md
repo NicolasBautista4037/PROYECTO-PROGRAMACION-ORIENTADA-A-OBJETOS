@@ -1,5 +1,5 @@
-# PROYECTO-PROGRAMACION-II
-Este repositorio contiene todo lo relacionado con el desarrollo del proyecto para la asignatura de programación II.
+# PROYECTO-PROGRAMACION-ORIENTADA-A-OBJETOS
+Este repositorio contiene todo lo relacionado con el desarrollo del proyecto para la asignatura de programación orientada a objetos.
 
 # Aplicación Web Local para Gestión de Cultivos en Finca
 
@@ -10,7 +10,7 @@ Muchos agricultores y pequeños propietarios tienen dificultades para llevar un 
 ## Integrantes del Equipo
 
 - [Johán Nicolás Bautista Raba](https://github.com/NicolasBautista4037)
-- [Juan Sebastian Morales]()
+- [Juan Sebastian Morales](https://github.com/J-SebastianMorales)
 
 ## Lista Inicial de Módulos del Sistema
 
