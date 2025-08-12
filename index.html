@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inventario Agrícola</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+
+        <!-- Tarjeta de datos -->
+        <div class="stats-card">
+            <h2>Resumen del Inventario</h2>
+            <div class="stats-grid">
+                <div class="stat-item">
+                    <span class="stat-value">42</span>
+                    <span class="stat-label">Tipos de insumos</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-value">1,256</span>
+                    <span class="stat-label">Unidades en stock</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-value">3</span>
+                    <span class="stat-label">Por agotarse</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Formulario -->
+        <div class="form-card">
+            <h2>Registrar Insumo</h2>
+            <form>
+                <input type="text" placeholder="Nombre del insumo" required>
+                <input type="number" placeholder="Cantidad" required>
+                <input type="text" placeholder="Categoría" required>
+                <button type="submit">Agregar</button>
+            </form>
+        </div>
+
+        <!-- Tabla -->
+        <div class="table-card">
+            <h2>Lista de Insumos</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Nombre</th>
+                        <th>Cantidad</th>
+                        <th>Categoría</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Semillas de Maíz</td>
+                        <td>500</td>
+                        <td>Semillas</td>
+                    </tr>
+                    <tr>
+                        <td>Fertilizante A</td>
+                        <td>200</td>
+                        <td>Fertilizantes</td>
+                    </tr>
+                    <tr>
+                        <td>Plaguicida X</td>
+                        <td>50</td>
+                        <td>Plaguicidas</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+    </div>
+</body>
+</html>
